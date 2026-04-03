@@ -1,2 +1,4 @@
-# Mega-studio-turbowarp
-This is an extension for creating windows.
+##
+---
+Hello, this extension is made for creating windows in TurboWarp.       file https://mega.nz/file/3041FBKD#HT0WwtDZDXyi4ai_qnh4-VDLmdZ8EhG1z0FJ8jynUy4
+---
